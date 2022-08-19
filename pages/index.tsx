@@ -12,7 +12,8 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to my portfolio.</h1>
+        <h1 className={styles.title}>Wait, I am Backend developer.</h1>
+        <h1 className={styles.title}>This is all I can build.</h1>
       </main>
     </div>
   );

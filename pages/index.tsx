@@ -14,8 +14,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Wait, I am Backend developer.</h1>
-        <h1 className={styles.title}>This is all I can build.</h1>
+        <h1 className={styles.title}>Hello, I am Backend developer.</h1>
         <Link href={"https://www.github.com/pawanganesh"}>
           <a>
             <Image
